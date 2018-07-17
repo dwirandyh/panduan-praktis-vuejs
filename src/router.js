@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import Router from 'vue-router'
 import BabSatu from './views/BabSatu.vue'
-import About from './views/About.vue'
+import BabDua from './views/BabDua.vue'
 
 Vue.use(Router)
 
@@ -13,9 +13,9 @@ export default new Router({
       component: BabSatu
     },
     {
-      path: '/about',
-      name: 'about',
-      component: About
+      path: '/bab2',
+      name: 'babDua',
+      component: BabDua
     }
   ]
 })
