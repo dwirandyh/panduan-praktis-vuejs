@@ -1,6 +1,6 @@
 <template>
     <div class="about">
-        <h1>Conditional (Pengandaian)</h1>
+        <h1>BAB 2 Conditional (Pengandaian)</h1>
         <table>
             <thead>
             <tr>
