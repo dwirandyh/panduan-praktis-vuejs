@@ -6,7 +6,8 @@
       <router-link to="/bab3">BAB 3</router-link> |
       <router-link to="/bab4">BAB 4</router-link> |
       <router-link to="/bab5">BAB 5</router-link> |
-      <router-link to="/bab6">BAB 6</router-link>
+      <router-link to="/bab6">BAB 6</router-link> |
+      <router-link to="/bab7">BAB 7</router-link>
     </div>
     <router-view/>
   </div>
