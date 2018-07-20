@@ -7,6 +7,7 @@ import BabEmpat from './views/BabEmpat'
 import BabLima from './views/BabLima'
 import BabEnam from './views/BabEnam'
 import BabTujuh from './views/BabTujuh'
+import BabDelapan from './views/BabDelapan'
 
 Vue.use(Router)
 
@@ -46,6 +47,11 @@ export default new Router({
             path: '/bab7',
             name: 'babTujuh',
             component: BabTujuh
+        },
+        {
+            path: '/bab8',
+            name: 'babDelapan',
+            component: BabDelapan
         }
     ]
 })
