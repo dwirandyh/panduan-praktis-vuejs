@@ -2,8 +2,9 @@
   <div id="app">
     <div id="nav">
       <router-link to="/">BAB 1</router-link> |
-      <router-link to="/bab2">BAB 2</router-link>
-      <router-link to="/bab3">BAB 3</router-link>
+      <router-link to="/bab2">BAB 2</router-link> |
+      <router-link to="/bab3">BAB 3</router-link> |
+      <router-link to="/bab4">BAB 4</router-link>
     </div>
     <router-view/>
   </div>
