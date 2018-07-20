@@ -4,7 +4,8 @@
       <router-link to="/">BAB 1</router-link> |
       <router-link to="/bab2">BAB 2</router-link> |
       <router-link to="/bab3">BAB 3</router-link> |
-      <router-link to="/bab4">BAB 4</router-link>
+      <router-link to="/bab4">BAB 4</router-link> |
+      <router-link to="/bab5">BAB 5</router-link>
     </div>
     <router-view/>
   </div>

@@ -4,6 +4,7 @@ import BabSatu from './views/BabSatu.vue'
 import BabDua from './views/BabDua.vue'
 import BabTiga from './views/BabTiga.vue'
 import BabEmpat from './views/BabEmpat'
+import BabLima from './views/BabLima'
 
 Vue.use(Router)
 
@@ -28,6 +29,11 @@ export default new Router({
             path: '/bab4',
             name: 'babEmpat',
             component: BabEmpat
+        },
+        {
+            path: '/bab5',
+            name: 'babLima',
+            component: BabLima
         }
     ]
 })
